@@ -8,6 +8,9 @@
 ![Supabase](https://img.shields.io/badge/Supabase-Powered-green)
 ![Vite](https://img.shields.io/badge/Vite-5.4-purple)
 
+
+
+PROJECT URL:    https://ai-vibe-coding1.vercel.app/
 ---
 
 ## 🌟 Core Features
